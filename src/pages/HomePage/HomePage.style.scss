@@ -1,0 +1,34 @@
+.home-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-container {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+  h1 {
+    font-size: 17px;
+    font-family: "Raleway", sans-serif;
+    margin-bottom: 27px !important;
+  }
+}
+
+.my-toest {
+  background-color: rgba(253, 253, 253, 0.87);
+  color: black;
+}
+
+.heart-icon {
+  font-size: 30px !important;
+  margin-top: 10px !important;
+  padding-top: 16px;
+  cursor: pointer;
+}
+
+
